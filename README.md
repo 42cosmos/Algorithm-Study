@@ -2,13 +2,13 @@
 
 ### 👩‍💻Member
 
-[채명건](https:///github.com/mgchae/)  
+[강의정](https:///github.com/euijeong-Kang/)
 
 [박은빈](https://github.com/42cosmos/)  
 
 ### 📒 Content
 
-주중 오후 7시, 한 시간동안 두 문제를 풀고 서로 코드리뷰를 하는 시간을 갖는다.   
+매일 오후 9시, 한 시간동안 문제를 풀고 서로 코드리뷰를 하는 시간을 갖는다.   
 
 
 
