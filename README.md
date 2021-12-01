@@ -3,8 +3,8 @@
 ### 👩‍💻Member
 
 [강의정](https:///github.com/euijeong-Kang/)
-
 [박은빈](https://github.com/42cosmos/)  
+[양수영](https://github.com/tasddc1226)
 
 ### 📒 Content
 
