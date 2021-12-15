@@ -1,11 +1,4 @@
 function solution(s) {    
     
-    if(s.length % 2 == 0) // 짝수
-    {
-        return s.substr(s.length / 2 - 1, 2);
-    }
-    else // 홀수
-    {
-        return s.substr(s.length / 2, 1);
-    }
+    return s = (s.length % 2 == 0) ? s.substr(s.length / 2 - 1, 2) : s.substr(s.length / 2, 1);
 }
